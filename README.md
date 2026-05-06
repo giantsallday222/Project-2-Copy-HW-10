@@ -1,1 +1,1 @@
-Live page view: https://giantsallday222.github.io/comp484-Project2/
+Live page view:  https://giantsallday222.github.io/Project-2-Copy-HW-10/
